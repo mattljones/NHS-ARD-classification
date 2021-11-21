@@ -5,6 +5,6 @@ This repository contains a notebook summarising the output from a short machine 
 
 For privacy reasons, the dataset itself cannot be shared.
 
-<!-- Links:
-- [Jupyter Notebook](<https://github.com/mattljones/udacity-projects/blob/main/Data%20Analyst/1%20-%20Investigate%20a%20Dataset/project_investigate_a_dataset.ipynb>)
-- [HTML](<https://htmlpreview.github.io/?https://github.com/mattljones/udacity-projects/blob/main/Data%20Analyst/1%20-%20Investigate%20a%20Dataset/project_investigate_a_dataset.html>) -->
+Links:
+- [Jupyter Notebook](<https://github.com/mattljones/NHS-ARD-classification/blob/main/NHS_ARD_classification.ipynb>)
+- [HTML](<https://htmlpreview.github.io/?https://github.com/mattljones/NHS-ARD-classification/blob/main/NHS_ARD_classification.html>)
